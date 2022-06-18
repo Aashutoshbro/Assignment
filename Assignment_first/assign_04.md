@@ -1,13 +1,4 @@
-#### Program 4: Write a program according to the specification given below:
-#### --> Create a class Teacher with data members, tid & subject and member
-#### functions for reading and displaying data members.
-#### --> Create another class Staff with data members, sid & position, and
-#### member functions for reading and displaying for data members.
-#### --> Derive a class Coordinator from the Teacher and Staff and the class must
-#### have its own data member department and member functions for reading
-#### and displaying data members.
-#### --> Create two objects of the Coordinator class and read and display their
-#### details.
+#### Program 4: Write a program according to the specification given below: Create a class Teacher with data members, tid & subject and member functions for reading and displaying data members.Create another class Staff with data members, sid & position, and member functions for reading and displaying for data members. Derive a class Coordinator from the Teacher and Staff and the class must have its own data member department and member functions for reading and displaying Create two objects of the Coordinator class and read and display their details.
 ```
 #include <bits/stdc++.h>
 using namespace std;
