@@ -1,9 +1,8 @@
-/*Program 3: Using a class write a program that receives inputs, principle amount, time and rate. Keeping rate 8% as the default argument, 
-calculate the simple interest for three customers.*/
-
+### Program 3: Using a class write a program that receives inputs, principle amount, time and rate. Keeping rate 8% as the default argument, 
+calculate the simple interest for three customers.
+```
 #include <bits/stdc++.h>
 using namespace std;
-
 class customer{
 	float principle;
 	int time;
@@ -42,4 +41,5 @@ int main(){
 	return 0;
 
 }
-
+```
+![Screenshot (989)](https://user-images.githubusercontent.com/55585284/174446242-ffb55f66-d927-4955-8102-3d51192503b0.png)
