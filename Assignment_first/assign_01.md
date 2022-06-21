@@ -1,4 +1,4 @@
-#### Program 1: Write a program to find the cube of given integer using inline function.
+### Program 1: Write a program to find the cube of given integer using inline function.
 ```
 #include <bits/stdc++.h>
 using namespace std;
