@@ -1,4 +1,4 @@
-#### Program 2: Design a class to represent a bank account with data members name, account-number, account-type, and balance. Define functions to assign initial values, to deposit an amount, to withdraw an amount after checking balance, and to display the name and balance. 
+### Program 2: Design a class to represent a bank account with data members name, account-number, account-type, and balance. Define functions to assign initial values, to deposit an amount, to withdraw an amount after checking balance, and to display the name and balance. 
 ```
 
 #include <bits/stdc++.h>
